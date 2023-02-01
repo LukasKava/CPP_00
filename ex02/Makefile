@@ -6,12 +6,12 @@
 #    By: lkavalia <lkavalia@student.42wolfsburg.    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/01/27 14:55:17 by lkavalia          #+#    #+#              #
-#    Updated: 2023/01/31 17:40:41 by lkavalia         ###   ########.fr        #
+#    Updated: 2023/02/01 18:21:27 by lkavalia         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 CC = c++
-CPP_FLAGS = -Wall -Wextra -Werror -std=++98
+CPP_FLAGS = -Wall -Wextra -Werror -std=c++98
 
 NAME = account
 SRCS = Account.cpp\
